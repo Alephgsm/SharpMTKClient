@@ -9,7 +9,7 @@ usb protocol is based on windows api(kernel32) (No dependency on usbdk), we used
 tested on 1000+ more device like xiomi, oppo , samsung , huawei, etc and all features will work w/o bugs
 
 # Lasted updated:
-* 2024/07/22
+* 2024/12/27
 
 # Features:
 * auto detect mtk devices from pid&vid (usb plug , unplug event, no in while)
