@@ -9,7 +9,7 @@ usb protocol is based on windows api(kernel32) (No dependency on usbdk), we used
 tested on 1000+ more device like xiomi, oppo , samsung , huawei, etc and all features will work w/o bugs
 
 # Lasted updated:
-* 2024/12/27
+* 2025.04.12
 
 # Features:
 * auto detect mtk devices from pid&vid (usb plug , unplug event, no in while)
@@ -17,7 +17,7 @@ tested on 1000+ more device like xiomi, oppo , samsung , huawei, etc and all fea
 * Supprted UFS, NAND, EMMC & up to last cpu that support in bkerler/mtkclient prject
 * auto bypass SLA & DAA
 * crash preloader
-* Flash
+* Flash (mtkv6, mtkv5) (native, flashtoollib api)
 * Flash raw firmware
 * Read Partition tables(gpt)
 * Flash GPT
@@ -34,6 +34,7 @@ tested on 1000+ more device like xiomi, oppo , samsung , huawei, etc and all fea
 * fix read/orange error after bootloader unlock
 * rpmb read/write/erase
 * rpmb read key
+* read hw keys
 * DA/Preloader parser
 * many more useful function exist in project codes ....
 
@@ -60,19 +61,14 @@ tested on 1000+ more device like xiomi, oppo , samsung , huawei, etc and all fea
 # Screenshots from Interface:
 * Features :
 
-![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/FeaturePage.jpg)
+![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/Screenshot-2025-04-12-072713.png)
 * Flash :
 
-![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/FlashPage.jpg)
-* Network :
+![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/Screenshot-2025-04-12-072352.png)
 
-![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/NetworkPage.jpg)
 * Partition Managment :
 
-![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/PartitionManagmet.jpg)
-* Manual config :
+![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/Screenshot-2025-04-12-072739.png)
 
-![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/ManualConfig.jpg)
-
-To Get source code of this project
+To Get source code of this project:
 https://alephgsm.com/2022/01/13/csharp-mtkclient/
