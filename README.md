@@ -39,9 +39,6 @@ tested on 1000+ more device like xiomi, oppo , samsung , huawei, etc and all fea
 * many more useful function exist in project codes ....
 
 # Screenshots from Codes:
-* Solution explorer:
-  
-![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/1-1.jpg)
 * function for v6 device:
   
 ![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/2-1.jpg)
