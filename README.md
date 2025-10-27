@@ -153,16 +153,13 @@ A lot bug fixed and optimized
 
 
 # Screenshots from Interface:
-* Features :
-
-![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/Screenshot-2025-04-12-072713.png)
 * Flash :
 
-![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/Screenshot-2025-04-12-072352.png)
+![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/Flash.png)
 
 * Partition Managment :
 
-![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/Screenshot-2025-04-12-072739.png)
+![SharpMTKClient](https://alephgsm.com/wp-content/uploads/2022/01/partitionmanage.png)
 
 To Get source code of this project:
 https://alephgsm.com/2022/01/13/csharp-mtkclient/
