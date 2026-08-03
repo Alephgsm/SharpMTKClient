@@ -133,3 +133,12 @@ The public product page was created on **2022.01.13**. Early entries are summari
 * Improved HeapBait pointer-auth handling and ARM / AArch64 helper detection.
 * Added safer GPT and partition-name handling to prevent null-name lookup failures.
 * Added runtime log-channel selection support for UART, USB and combined DA logging paths.
+
+
+## 2026.08.03
+
+* added Motorola Direct IMEI repair (works on all MTK 4G Motorola devices)
+* added Motorola Unlock Network
+* patching IMEI records, backup records, network identity, carrier config, device identity
+* ext4-based universal method, no per-device profile needed
+* tested models: Moto E15, G05, G06, G15, G17
